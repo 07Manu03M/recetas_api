@@ -18,8 +18,7 @@ Permite registrar usuarios, crear recetas, agregar ingredientes y realizar búsq
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-   cd TU_REPOSITORIO
+   git clone https://github.com/07Manu03M/recetas_api.git
    ```
 
 2. **Instalar dependencias**
@@ -131,7 +130,7 @@ node src/dataset.js
 ---
 
 ## 📽 Video de demostración
-🎥 **Link del video:** [https://youtu.be/TU_LINK](https://youtu.be/TU_LINK)  
+🎥 **Link del video:** [https://drive.google.com/drive/folders/1WvxnQ_oi7UBAZOPBtex0jJhE-bve5_P7?usp=sharing] 
 En el video se muestra:
 - CRUD de usuarios
 - CRUD de recetas
@@ -144,6 +143,5 @@ En el video se muestra:
 ## 👥 Integrantes
 - **Manuel Larrotta Meneses**
 - **Karina Sanabria Casas**
-- **Nombre Completo 3**
 
 
